@@ -89,7 +89,6 @@ int main(){
 			}
 		}
 	}
-    cout<<"hihi";
 
     //print
     cout<<endl<<endl<<"Descending Merge: ";
