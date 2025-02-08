@@ -1,0 +1,3 @@
+C:/Users/balio/basics-and-fundamentals-c/cmake-build-debug/CMakeFiles/basics_and_fundamentals_c.dir
+C:/Users/balio/basics-and-fundamentals-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/balio/basics-and-fundamentals-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
